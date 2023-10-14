@@ -4,6 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Running locally in development mode
 
 - To get started, just clone the repository and run `npm install && npm run dev`:
+```
 
     git clone https://github.com/COPS-IITBHU/Study-Portal-2.0
     npm install
